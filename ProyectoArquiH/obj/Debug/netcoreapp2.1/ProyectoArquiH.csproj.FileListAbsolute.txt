@@ -1,0 +1,33 @@
+C:\Users\Laura\source\repos\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.deps.json
+C:\Users\Laura\source\repos\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.runtimeconfig.json
+C:\Users\Laura\source\repos\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.runtimeconfig.dev.json
+C:\Users\Laura\source\repos\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.dll
+C:\Users\Laura\source\repos\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.csprojAssemblyReference.cache
+C:\Users\Laura\source\repos\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.AssemblyInfo.cs
+C:\Users\Laura\source\repos\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.pdb
+C:\Users\Laura\source\repos\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.dll
+C:\Users\Laura\source\repos\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.pdb
+C:\Users\Laura\Desktop\Universidad\2020-1\ArquiHard\Proyecto\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.deps.json
+C:\Users\Laura\Desktop\Universidad\2020-1\ArquiHard\Proyecto\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.runtimeconfig.json
+C:\Users\Laura\Desktop\Universidad\2020-1\ArquiHard\Proyecto\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.runtimeconfig.dev.json
+C:\Users\Laura\Desktop\Universidad\2020-1\ArquiHard\Proyecto\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.dll
+C:\Users\Laura\Desktop\Universidad\2020-1\ArquiHard\Proyecto\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.pdb
+C:\Users\Laura\Desktop\Universidad\2020-1\ArquiHard\Proyecto\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.csprojAssemblyReference.cache
+C:\Users\Laura\Desktop\Universidad\2020-1\ArquiHard\Proyecto\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\Universidad\2020-1\ArquiHard\Proyecto\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.AssemblyInfoInputs.cache
+C:\Users\Laura\Desktop\Universidad\2020-1\ArquiHard\Proyecto\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.AssemblyInfo.cs
+C:\Users\Laura\Desktop\Universidad\2020-1\ArquiHard\Proyecto\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.dll
+C:\Users\Laura\Desktop\Universidad\2020-1\ArquiHard\Proyecto\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.pdb
+C:\Users\David Obando\OneDrive - Universidad Icesi\Semestre 7\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.deps.json
+C:\Users\David Obando\OneDrive - Universidad Icesi\Semestre 7\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.runtimeconfig.json
+C:\Users\David Obando\OneDrive - Universidad Icesi\Semestre 7\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.runtimeconfig.dev.json
+C:\Users\David Obando\OneDrive - Universidad Icesi\Semestre 7\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.dll
+C:\Users\David Obando\OneDrive - Universidad Icesi\Semestre 7\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\bin\Debug\netcoreapp2.1\ProyectoArquiH.pdb
+C:\Users\David Obando\OneDrive - Universidad Icesi\Semestre 7\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.csprojAssemblyReference.cache
+C:\Users\David Obando\OneDrive - Universidad Icesi\Semestre 7\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.csproj.CoreCompileInputs.cache
+C:\Users\David Obando\OneDrive - Universidad Icesi\Semestre 7\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.AssemblyInfoInputs.cache
+C:\Users\David Obando\OneDrive - Universidad Icesi\Semestre 7\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.AssemblyInfo.cs
+C:\Users\David Obando\OneDrive - Universidad Icesi\Semestre 7\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.dll
+C:\Users\David Obando\OneDrive - Universidad Icesi\Semestre 7\ProyectoArquiHard\ProyectoArquiH\ProyectoArquiH\obj\Debug\netcoreapp2.1\ProyectoArquiH.pdb
