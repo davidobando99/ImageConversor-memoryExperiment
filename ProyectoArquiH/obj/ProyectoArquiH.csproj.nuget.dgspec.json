@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Obando\\OneDrive - Universidad Icesi\\Semestre 7\\ProyectoArquiHard\\ProyectoArquiH\\ProyectoArquiH\\ProyectoArquiH.csproj": {}
+    "C:\\Users\\David Obando\\OneDrive - Universidad Icesi\\Semestre 7\\ArquiHard\\ImageConversor-memoryExperiment\\ProyectoArquiH\\ProyectoArquiH.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Obando\\OneDrive - Universidad Icesi\\Semestre 7\\ProyectoArquiHard\\ProyectoArquiH\\ProyectoArquiH\\ProyectoArquiH.csproj": {
+    "C:\\Users\\David Obando\\OneDrive - Universidad Icesi\\Semestre 7\\ArquiHard\\ImageConversor-memoryExperiment\\ProyectoArquiH\\ProyectoArquiH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Obando\\OneDrive - Universidad Icesi\\Semestre 7\\ProyectoArquiHard\\ProyectoArquiH\\ProyectoArquiH\\ProyectoArquiH.csproj",
+        "projectUniqueName": "C:\\Users\\David Obando\\OneDrive - Universidad Icesi\\Semestre 7\\ArquiHard\\ImageConversor-memoryExperiment\\ProyectoArquiH\\ProyectoArquiH.csproj",
         "projectName": "ProyectoArquiH",
-        "projectPath": "C:\\Users\\David Obando\\OneDrive - Universidad Icesi\\Semestre 7\\ProyectoArquiHard\\ProyectoArquiH\\ProyectoArquiH\\ProyectoArquiH.csproj",
+        "projectPath": "C:\\Users\\David Obando\\OneDrive - Universidad Icesi\\Semestre 7\\ArquiHard\\ImageConversor-memoryExperiment\\ProyectoArquiH\\ProyectoArquiH.csproj",
         "packagesPath": "C:\\Users\\David Obando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Obando\\OneDrive - Universidad Icesi\\Semestre 7\\ProyectoArquiHard\\ProyectoArquiH\\ProyectoArquiH\\obj\\",
+        "outputPath": "C:\\Users\\David Obando\\OneDrive - Universidad Icesi\\Semestre 7\\ArquiHard\\ImageConversor-memoryExperiment\\ProyectoArquiH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
